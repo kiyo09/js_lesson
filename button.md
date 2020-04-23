@@ -9,7 +9,7 @@
 
 function mojiKawaru(){
 	var span = document.getElementById("target");
-	span.innerHTML = "kakiku";
+	span.innerHTML = "プレビュー最強かよ。。。";
 }
 
 </script>
@@ -24,7 +24,7 @@ function mojiKawaru(){
 
 
 
-#### メモ
+#### Markdownもいける
 
 
 
